@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <rect width="48" height="48" rx="8" fill="#0c1e34"/>
+  <path d="M12 12H36V14H12V12Z" fill="#c49b66"/>
+  <path d="M14 14V34H16V14H14Z" fill="#e2e8f0" fill-opacity="0.4"/>
+  <path d="M32 14V34H34V14H32Z" fill="#e2e8f0" fill-opacity="0.4"/>
+  <path d="M12 34H36V36H12V34Z" fill="#c49b66"/>
+  <text x="24" y="27" font-family="'Cinzel', serif, system-ui" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">SA</text>
+  <circle cx="24" cy="31" r="1.5" fill="#c49b66"/>
+</svg>
